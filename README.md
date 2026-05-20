@@ -20,7 +20,7 @@ The course covers:
 ## 📄 Certificate
 
 <p align="center">
-  <img src="certificate.png" alt="Google Data Analytics Certificate" width="1000"/>
+  <img src="https://raw.githubusercontent.com/Kanishkhan/Google-data-analytics/main/Google%20data%20analytics.png" width="1000"/>
 </p>
 
 ---
