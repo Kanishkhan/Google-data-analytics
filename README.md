@@ -1,16 +1,47 @@
-## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+# Google Data Analytics Professional Certificate
 
-&nbsp;
+[![Coursera](https://img.shields.io/badge/Coursera-Google%20Data%20Analytics-blue?logo=coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-![cert](google-data-analytics.png)
+## 📌 About
+This repository contains my notes, learning materials, and certificate from the **Google Data Analytics Professional Certificate** offered by Coursera and developed by Google.
 
-* This repository written for reference and self-documentation purpose
-* Feel free to contribute!
+The program covers the fundamentals of data analytics, including:
 
-Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary.
+- Data Cleaning
+- Data Visualization
+- SQL
+- Spreadsheets
+- R Programming
+- Data Analysis Process
+- Data-driven Decision Making
 
-Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
+## 📄 Certificate
 
-Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their own careers. At under 10 hours per week, you can complete the certificate in less than 6 months. 
+🔗 [View Certificate PDF](https://github.com/Kanishkhan/Google-data-analytics/blob/main/Google%20Data%20Analytics.pdf)
 
-You’ll prepare yourself for jobs that include junior or associate data analyst, database administrator, and more. Upon completion of the certificate, you can directly apply for jobs with Google and over 130 U.S. employers, including Walmart, Best Buy, Astreya. 
+## 🎓 Course Link
+
+🔗 [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+## 🛠 Skills Learned
+
+- Data Analytics
+- SQL
+- R Programming
+- Data Visualization
+- Spreadsheet Analysis
+- Data Cleaning
+- Problem Solving
+- Business Insights
+
+## 📚 Purpose of this Repository
+
+This repository is maintained for:
+- Learning reference
+- Self-documentation
+- Practice and revision
+- Sharing knowledge with others
+
+## 🤝 Contributions
+
+Feel free to fork this repository and contribute.
